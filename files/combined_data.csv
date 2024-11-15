@@ -1,0 +1,1268 @@
+character_id,character_name,character_status,character_species,episode_name,episode_code,episode_air_date,dimension
+1,Rick Sanchez,Alive,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+1,Rick Sanchez,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+1,Rick Sanchez,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+1,Rick Sanchez,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Dimension C-137
+1,Rick Sanchez,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Dimension C-137
+1,Rick Sanchez,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Dimension C-137
+1,Rick Sanchez,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Dimension C-137
+1,Rick Sanchez,Alive,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Dimension C-137
+1,Rick Sanchez,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Dimension C-137
+1,Rick Sanchez,Alive,Human,Promortyus,S04E07,"May 10, 2020",Dimension C-137
+1,Rick Sanchez,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Dimension C-137
+1,Rick Sanchez,Alive,Human,Childrick of Mort,S04E09,"May 24, 2020",Dimension C-137
+1,Rick Sanchez,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Dimension C-137
+1,Rick Sanchez,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Dimension C-137
+1,Rick Sanchez,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Dimension C-137
+2,Morty Smith,Alive,Human,Pilot,S01E01,"December 2, 2013",Unknown
+2,Morty Smith,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Unknown
+2,Morty Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Unknown
+2,Morty Smith,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Unknown
+2,Morty Smith,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Unknown
+2,Morty Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Unknown
+2,Morty Smith,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Unknown
+2,Morty Smith,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+2,Morty Smith,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Unknown
+2,Morty Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+2,Morty Smith,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Unknown
+2,Morty Smith,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Unknown
+2,Morty Smith,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+2,Morty Smith,Alive,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Unknown
+2,Morty Smith,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Unknown
+2,Morty Smith,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Unknown
+2,Morty Smith,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+2,Morty Smith,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+2,Morty Smith,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+2,Morty Smith,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Unknown
+2,Morty Smith,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+2,Morty Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+2,Morty Smith,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Unknown
+2,Morty Smith,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Unknown
+2,Morty Smith,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+2,Morty Smith,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+2,Morty Smith,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Unknown
+2,Morty Smith,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+2,Morty Smith,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+2,Morty Smith,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Unknown
+2,Morty Smith,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Unknown
+2,Morty Smith,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Unknown
+2,Morty Smith,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+2,Morty Smith,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+2,Morty Smith,Alive,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Unknown
+2,Morty Smith,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Unknown
+2,Morty Smith,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Unknown
+2,Morty Smith,Alive,Human,Promortyus,S04E07,"May 10, 2020",Unknown
+2,Morty Smith,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown
+2,Morty Smith,Alive,Human,Childrick of Mort,S04E09,"May 24, 2020",Unknown
+2,Morty Smith,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Unknown
+2,Morty Smith,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Unknown
+2,Morty Smith,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Unknown
+2,Morty Smith,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Unknown
+2,Morty Smith,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Unknown
+2,Morty Smith,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Unknown
+2,Morty Smith,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Unknown
+2,Morty Smith,Alive,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+2,Morty Smith,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Unknown
+2,Morty Smith,Alive,Human,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Unknown
+2,Morty Smith,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+3,Summer Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+3,Summer Smith,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+3,Summer Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+3,Summer Smith,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+3,Summer Smith,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+3,Summer Smith,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+3,Summer Smith,Alive,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Replacement Dimension
+3,Summer Smith,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+3,Summer Smith,Alive,Human,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+3,Summer Smith,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Replacement Dimension
+3,Summer Smith,Alive,Human,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+3,Summer Smith,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+3,Summer Smith,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+3,Summer Smith,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+4,Beth Smith,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+4,Beth Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+4,Beth Smith,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+4,Beth Smith,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+4,Beth Smith,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+4,Beth Smith,Alive,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Replacement Dimension
+4,Beth Smith,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+4,Beth Smith,Alive,Human,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+4,Beth Smith,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Replacement Dimension
+4,Beth Smith,Alive,Human,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+4,Beth Smith,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+4,Beth Smith,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+4,Beth Smith,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+5,Jerry Smith,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+5,Jerry Smith,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+5,Jerry Smith,Alive,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+5,Jerry Smith,Alive,Human,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+5,Jerry Smith,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Replacement Dimension
+5,Jerry Smith,Alive,Human,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+5,Jerry Smith,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+5,Jerry Smith,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Replacement Dimension
+5,Jerry Smith,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+6,Abadango Cluster Princess,Alive,Alien,Rest and Ricklaxation,S03E06,"August 27, 2017",unknown
+7,Abradolf Lincler,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Replacement Dimension
+7,Abradolf Lincler,unknown,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+8,Adjudicator Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+9,Agency Director,Dead,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+10,Alan Rails,Dead,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+11,Albert Einstein,Dead,Human,A Rickle in Time,S02E01,"July 26, 2015",Dimension C-137
+12,Alexander,Dead,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+13,Alien Googah,unknown,Alien,The Rickchurian Mortydate,S03E10,"October 1, 2017",Unknown
+14,Alien Morty,unknown,Alien,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+15,Alien Rick,unknown,Alien,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+16,Amish Cyborg,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+17,Annie,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+18,Antenna Morty,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+18,Antenna Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+19,Antenna Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+20,Ants in my Eyes Johnson,unknown,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+21,Aqua Morty,unknown,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+21,Aqua Morty,unknown,Humanoid,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+22,Aqua Rick,unknown,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+22,Aqua Rick,unknown,Humanoid,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+22,Aqua Rick,unknown,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+23,Arcade Alien,unknown,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+23,Arcade Alien,unknown,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+23,Arcade Alien,unknown,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+23,Arcade Alien,unknown,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+23,Arcade Alien,unknown,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+24,Armagheadon,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",Cromulon Dimension
+25,Armothy,Dead,unknown,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+26,Arthricia,Alive,Alien,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+27,Artist Morty,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+27,Artist Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+28,Attila Starwar,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+28,Attila Starwar,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+28,Attila Starwar,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+29,Baby Legs,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+30,Baby Poopybutthole,Alive,Poopybutthole,The Rickchurian Mortydate,S03E10,"October 1, 2017",Unknown
+31,Baby Wizard,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+32,Bearded Lady,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+33,Beebo,Dead,Alien,Morty's Mind Blowers,S03E08,"September 17, 2017",unknown
+34,Benjamin,Alive,Poopybutthole,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+34,Benjamin,Alive,Poopybutthole,Mortynight Run,S02E02,"August 2, 2015",Unknown
+34,Benjamin,Alive,Poopybutthole,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+35,Bepisian,Alive,Alien,Pilot,S01E01,"December 2, 2013",unknown
+35,Bepisian,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",unknown
+35,Bepisian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",unknown
+35,Bepisian,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",unknown
+36,Beta-Seven,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Unknown
+37,Beth Sanchez,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+38,Beth Smith,Alive,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+38,Beth Smith,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+38,Beth Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+38,Beth Smith,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+38,Beth Smith,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+38,Beth Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+38,Beth Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension C-137
+38,Beth Smith,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Dimension C-137
+39,Beth Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Evil Rick's Target Dimension
+40,Beth's Mytholog,Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+41,Big Boobed Waitress,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+42,Big Head Morty,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+43,Big Morty,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+44,Body Guard Morty,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+45,Bill,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+46,Bill,unknown,Animal,Lawnmower Dog,S01E02,"December 9, 2013",Replacement Dimension
+47,Birdperson,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",unknown
+47,Birdperson,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",unknown
+47,Birdperson,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",unknown
+47,Birdperson,Alive,Alien,The Rickshank Rickdemption,S03E01,"April 1, 2017",unknown
+47,Birdperson,Alive,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+47,Birdperson,Alive,Alien,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",unknown
+47,Birdperson,Alive,Alien,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+48,Black Rick,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+48,Black Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+49,Blamph,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+50,Blim Blam,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Unknown
+51,Blue Diplomat,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+52,Blue Footprint Guy,Dead,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+53,Blue Shirt Morty,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+54,Bobby Moynihan,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+55,Boobloosian,Dead,Alien,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+55,Boobloosian,Dead,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+56,Bootleg Portal Chemist Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+57,Borpocian,Alive,Alien,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+58,Brad,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+58,Brad,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+58,Brad,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+58,Brad,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+59,Brad Anderson,Dead,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+60,Calypso,Dead,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+61,Campaign Manager Morty,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+62,Canklanker Thom,Dead,Alien,Pilot,S01E01,"December 2, 2013",Replacement Dimension
+63,Centaur,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Unknown
+64,Chris,Dead,Alien,A Rickle in Time,S02E01,"July 26, 2015",Unknown
+65,Chris,Alive,Humanoid,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+67,Collector,Alive,Alien,Morty's Mind Blowers,S03E08,"September 17, 2017",unknown
+68,Colossus,Dead,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+69,Commander Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+70,Concerto,Dead,Humanoid,Pickle Rick,S03E03,"August 6, 2017",Unknown
+71,Conroy,Dead,Robot,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+72,Cool Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension K-83
+73,Cop Morty,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+74,Cop Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+75,Courier Flap,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+76,Cousin Nicky,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+77,Cowboy Morty,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+78,Cowboy Rick,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+78,Cowboy Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+79,Crab Spider,Alive,Alien,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",unknown
+80,Creepy Little Girl,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Unknown
+81,Crocubot,Dead,Animal,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+82,Cronenberg Rick,unknown,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Cronenberg Dimension
+82,Cronenberg Rick,unknown,Cronenberg,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Cronenberg Dimension
+83,Cronenberg Morty,unknown,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Cronenberg Dimension
+83,Cronenberg Morty,unknown,Cronenberg,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Cronenberg Dimension
+84,Cult Leader Morty,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+85,Cyclops Morty,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+85,Cyclops Morty,Alive,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+86,Cyclops Rick,Dead,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+86,Cyclops Rick,Dead,Humanoid,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+86,Cyclops Rick,Dead,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+87,Cynthia,Dead,Alien,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Unknown
+88,Cynthia,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Replacement Dimension
+88,Cynthia,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+88,Cynthia,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+88,Cynthia,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Replacement Dimension
+89,Dale,Dead,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+90,Daron Jefferson,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+91,David Letterman,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+92,Davin,Dead,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+92,Davin,Dead,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+93,Diablo Verde,Dead,Mythological Creature,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+94,Diane Sanchez,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension C-137
+94,Diane Sanchez,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Dimension C-137
+95,Dipper and Mabel Mortys,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+96,Tuberculosis,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+97,Gonorrhea,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+98,Hepatitis A,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+99,Hepatitis C,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+100,Bubonic Plague,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+101,E. Coli,Dead,Disease,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+102,Donna Gueterman,Dead,Robot,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+103,Doofus Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Dimension J19ζ7
+103,Doofus Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension J19ζ7
+104,Doom-Nomitron,Dead,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+105,Dr. Glip-Glop,Dead,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+106,Dr. Schmidt,unknown,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+107,Dr. Wong,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+107,Dr. Wong,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+108,Dr. Xenon Bloom,Dead,Humanoid,Anatomy Park,S01E03,"December 16, 2013",Unknown
+109,Duck With Muscles,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+110,Eli,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+111,Eli's Girlfriend,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+112,Eric McMan,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+113,Eric Stoltz Mask Morty,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Eric Stoltz Mask Dimension
+114,Ethan,unknown,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+115,Ethan,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+115,Ethan,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+116,Evil Beth Clone,Dead,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Unknown
+117,Evil Jerry Clone,Dead,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Unknown
+118,Evil Morty,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+118,Evil Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+118,Evil Morty,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+119,Evil Rick,Dead,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+120,Evil Summer Clone,Dead,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Unknown
+121,Eyehole Man,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+122,Fart,Dead,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+123,Fat Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+124,Father Bob,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+124,Father Bob,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+125,Flansian,Alive,Alien,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+125,Flansian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+125,Flansian,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+126,Fleeb,unknown,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+127,Frank Palicky,Dead,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+128,Frankenstein's Monster,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+129,Fulgora,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+129,Fulgora,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+129,Fulgora,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+130,Galactic Federation President,Dead,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+131,Gar Gloonch,Dead,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+131,Gar Gloonch,Dead,Alien,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+131,Gar Gloonch,Dead,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+132,Gar's Mytholog,Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+133,Garblovian,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",unknown
+133,Garblovian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",unknown
+133,Garblovian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",unknown
+134,Garmanarnar,Alive,Alien,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+135,Garment District Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+136,Gazorpazorpfield,Alive,Alien,Rixty Minutes,S01E08,"March 17, 2014",unknown
+136,Gazorpazorpfield,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",unknown
+137,Gene,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+137,Gene,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+138,General Nathan,Dead,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+139,General Store Owner,Dead,Alien,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+140,Genital Washer,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+141,Ghost in a Jar,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+142,Gibble Snake,Dead,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+143,Glasses Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+144,Glenn,Dead,Alien,Pilot,S01E01,"December 2, 2013",Unknown
+145,Glenn,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+146,Glexo Slim Slom,Alive,Alien,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+147,Gobo,Dead,Alien,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+148,Goddess Beth,unknown,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+149,Gordon Lunas,Dead,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+150,Cornvelious Daniel,Dead,Alien,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+151,Gwendolyn,unknown,Robot,Raising Gazorpazorp,S01E07,"March 10, 2014",unknown
+152,Hammerhead Morty,unknown,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+152,Hammerhead Morty,unknown,Humanoid,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+153,Hamster In Butt,Alive,Animal,Rixty Minutes,S01E08,"March 17, 2014",unknown
+153,Hamster In Butt,Alive,Animal,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",unknown
+154,Hamurai,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+155,Harold,Alive,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+156,Hemorrhage,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+158,Hookah Alien,Alive,Alien,Pilot,S01E01,"December 2, 2013",Unknown
+159,Hunter,Dead,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Giant Telepathic Spiders Dimension
+160,Hunter's Father,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Giant Telepathic Spiders Dimension
+161,Hydrogen-F,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+162,Ice-T,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+163,Ideal Jerry,Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+164,Insurance Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+165,Investigator Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+166,Invisi-trooper,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+167,Izzy,Alive,Animal,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+168,Jackie,Alive,Alien,Raising Gazorpazorp,S01E07,"March 10, 2014",unknown
+169,Jacob,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+169,Jacob,Alive,Human,Total Rickall,S02E04,"August 16, 2015",Dimension C-137
+170,Jacqueline,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+171,Jaguar,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+172,Jamey,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+173,Jan-Michael Vincent,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+174,Jerry 5-126,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Dimension 5-126
+175,Jerry Smith,Alive,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+175,Jerry Smith,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+175,Jerry Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+175,Jerry Smith,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+175,Jerry Smith,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+175,Jerry Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+175,Jerry Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension C-137
+176,Celebrity Jerry,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+177,Jerry Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Evil Rick's Target Dimension
+178,Jerry's Mytholog,Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+179,Jessica,Alive,Cronenberg,Pilot,S01E01,"December 2, 2013",Dimension C-137
+179,Jessica,Alive,Cronenberg,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+179,Jessica,Alive,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+180,Jessica,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+180,Jessica,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+180,Jessica,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+180,Jessica,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+180,Jessica,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+180,Jessica,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+180,Jessica,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Replacement Dimension
+180,Jessica,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+180,Jessica,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+180,Jessica,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+180,Jessica,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Replacement Dimension
+180,Jessica,Alive,Human,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+181,Jessica's Friend,Alive,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+181,Jessica's Friend,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+181,Jessica's Friend,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+181,Jessica's Friend,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Dimension C-137
+181,Jessica's Friend,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Dimension C-137
+181,Jessica's Friend,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Dimension C-137
+181,Jessica's Friend,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Dimension C-137
+181,Jessica's Friend,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Dimension C-137
+182,Jim,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+183,Johnny Depp,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+184,Jon,Alive,Alien,Rixty Minutes,S01E08,"March 17, 2014",unknown
+185,Joseph Eli Lipkip,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+186,Joyce Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+187,Juggling Rick,unknown,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+188,Karen Entity,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+189,Katarina,Dead,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+190,Keara,Alive,Alien,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+191,Kevin,Dead,Alien,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Unknown
+192,King Flippy Nips,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+193,King Jellybean,Dead,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+194,Kozbian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+195,Kristen Stewart,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+196,Krombopulos Michael,Dead,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+197,Kyle,Dead,Humanoid,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+198,Lady Katana,Dead,Humanoid,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+199,Larva Alien,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",Unknown dimension
+199,Larva Alien,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown dimension
+199,Larva Alien,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown dimension
+200,Lawyer Morty,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+201,Leonard Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+202,Lighthouse Keeper,Dead,Alien,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+203,Lil B,Dead,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+203,Lil B,Dead,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+204,Lisa,Dead,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+205,Little Dipper,Alive,Humanoid,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+206,Lizard Morty,Alive,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+207,Loggins,Alive,Alien,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+207,Loggins,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+207,Loggins,Alive,Alien,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+208,Logic,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+209,Long Sleeved Morty,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+210,Lucy,Dead,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+211,Ma-Sha,Alive,Alien,Raising Gazorpazorp,S01E07,"March 10, 2014",unknown
+212,Magma-Q,Dead,Alien,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+213,Magnesium-J,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+214,Man Painted Silver Who Makes Robot Noises,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+215,Maximums Rickimus,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+215,Maximums Rickimus,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+215,Maximums Rickimus,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+216,MC Haps,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+216,MC Haps,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Dimension C-137
+216,MC Haps,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Dimension C-137
+217,Mechanical Morty,Dead,Robot,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+218,Mechanical Rick,unknown,Robot,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+219,Mechanical Summer,unknown,Robot,Rickmancing the Stone,S03E02,"July 30, 2017",Replacement Dimension
+220,Mega Fruit Farmer Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+221,Melissa,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+222,Michael Denny and the Denny Singers,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+223,Michael Jenkins,Dead,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+224,Michael McLick,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+225,Michael Thompson,Alive,Humanoid,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+226,Million Ants,Dead,Animal,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+227,Mitch,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+228,Mohawk Guy,Dead,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+229,Morty Mart Manager Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+230,Morty Jr.,Alive,Humanoid,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+231,Morty Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+232,Morty Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Evil Rick's Target Dimension
+233,Morty K-22,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension K-22
+234,Morty Smith,Dead,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+235,Mortytown Loco,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+236,Mr. Beauregard,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+237,Mr. Benson,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+238,Mr. Booby Buyer,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+239,Mr. Goldenfold,Alive,Cronenberg,Pilot,S01E01,"December 2, 2013",Dimension C-137
+239,Mr. Goldenfold,Alive,Cronenberg,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+239,Mr. Goldenfold,Alive,Cronenberg,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+239,Mr. Goldenfold,Alive,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+240,Mr. Goldenfold,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+240,Mr. Goldenfold,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Replacement Dimension
+241,Mr. Marklovitz,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+241,Mr. Marklovitz,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Dimension C-137
+242,Mr. Meeseeks,unknown,Humanoid,Meeseeks and Destroy,S01E05,"January 20, 2014",unknown
+242,Mr. Meeseeks,unknown,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",unknown
+242,Mr. Meeseeks,unknown,Humanoid,Mortynight Run,S02E02,"August 2, 2015",unknown
+242,Mr. Meeseeks,unknown,Humanoid,Morty's Mind Blowers,S03E08,"September 17, 2017",unknown
+242,Mr. Meeseeks,unknown,Humanoid,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",unknown
+243,Mr. Needful,Alive,Humanoid,Something Ricked This Way Comes,S01E09,"March 24, 2014",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,Total Rickall,S02E04,"August 16, 2015",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,The ABC's of Beth,S03E09,"September 24, 2017",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,The Rickchurian Mortydate,S03E10,"October 1, 2017",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+244,Mr. Poopybutthole,Alive,Poopybutthole,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+245,Mrs. Lipkip,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+246,Mrs. Pancakes,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+246,Mrs. Pancakes,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Dimension C-137
+247,Amy Poopybutthole,Alive,Poopybutthole,The Rickchurian Mortydate,S03E10,"October 1, 2017",Unknown
+248,Mrs. Refrigerator,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+249,Mrs. Sanchez,unknown,Human,Pilot,S01E01,"December 2, 2013",Unknown
+249,Mrs. Sanchez,unknown,Human,Rick Potion #9,S01E06,"January 27, 2014",Unknown
+249,Mrs. Sanchez,unknown,Human,Auto Erotic Assimilation,S02E03,"August 9, 2015",Unknown
+249,Mrs. Sanchez,unknown,Human,The ABC's of Beth,S03E09,"September 24, 2017",Unknown
+250,Mrs. Sullivan,Dead,Human,Rixty Minutes,S01E08,"March 17, 2014",Dimension C-500A
+251,Nancy,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+251,Nancy,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+251,Nancy,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+251,Nancy,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Replacement Dimension
+251,Nancy,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+251,Nancy,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+252,Noob-Noob,Alive,Poopybutthole,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+253,Numbericon,unknown,Alien,Get Schwifty,S02E05,"August 23, 2015",Unknown
+254,Octopus Man,Alive,Humanoid,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+255,Orthodox Jew,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+256,Pat Gueterman,Dead,Robot,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+257,Paul Fleishman,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+258,Pawnshop Clerk,Alive,Alien,Raising Gazorpazorp,S01E07,"March 10, 2014",Unknown
+259,Pencilvester,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+260,Phillip Jacobs,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+261,Photography Cyborg,unknown,Robot,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+262,Photography Raptor,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+263,Pibbles Bodyguard,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+264,Pichael Thompson,Alive,Humanoid,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+265,Pickle Rick,Alive,unknown,Pickle Rick,S03E03,"August 6, 2017",Dimension C-137
+266,Piece of Toast,Alive,unknown,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+266,Piece of Toast,Alive,unknown,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Unknown
+267,Plumber Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+268,Poncho,Dead,Human,Anatomy Park,S01E03,"December 16, 2013",Unknown
+269,Presidentress of The Mega Gargantuans,Alive,Humanoid,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+270,Prince Nebulon,Dead,Alien,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Unknown
+271,Principal Vagina,Alive,Cronenberg,Pilot,S01E01,"December 2, 2013",Dimension C-137
+271,Principal Vagina,Alive,Cronenberg,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+271,Principal Vagina,Alive,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+272,Principal Vagina,Alive,Human,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+272,Principal Vagina,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+272,Principal Vagina,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+272,Principal Vagina,Alive,Human,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+272,Principal Vagina,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+272,Principal Vagina,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Replacement Dimension
+273,Purge Planet Ruler,Dead,Alien,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+274,Quantum Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+274,Quantum Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+274,Quantum Rick,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+275,Randy Dicknose,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+276,Rat Boss,Dead,Animal,Pickle Rick,S03E03,"August 6, 2017",Replacement Dimension
+277,Real Fake Doors Salesman,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+278,Regional Manager Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+279,Regular Legs,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+280,Reverse Giraffe,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+281,Reverse Rick Outrage,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+282,Revolio Clockberg Jr.,unknown,Alien,Ricksy Business,S01E11,"April 14, 2014",unknown
+282,Revolio Clockberg Jr.,unknown,Alien,Mortynight Run,S02E02,"August 2, 2015",unknown
+282,Revolio Clockberg Jr.,unknown,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",unknown
+283,Rick D. Sanchez III,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+284,Rick Guilt Rick,unknown,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+285,Rick Prime,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+285,Rick Prime,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+286,Rick D-99,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension D-99
+287,Rick D716,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension D716
+288,Rick D716-B,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension D716-B
+289,Rick D716-C,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension D716-C
+290,Rick Sanchez,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Evil Rick's Target Dimension
+291,Rick J-22,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension J-22
+292,Rick K-22,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Dimension K-22
+293,Rick Sanchez,Dead,Human,Rick Potion #9,S01E06,"January 27, 2014",Replacement Dimension
+294,Ricktiminus Sancheziminius,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+294,Ricktiminus Sancheziminius,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+294,Ricktiminus Sancheziminius,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+295,Riq IV,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+295,Riq IV,Dead,Human,Ricksy Business,S01E11,"April 14, 2014",Unknown
+295,Riq IV,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+296,Risotto Groupon,Dead,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+297,Risotto's Tentacled Henchman,Dead,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+298,Robot Morty,unknown,Robot,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+299,Robot Rick,unknown,Robot,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+300,Roger,Dead,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+301,Ron Benson,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+302,Ruben,Dead,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+303,Samantha,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+304,Scary Brandon,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+305,Scary Glenn,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+306,Scary Terry,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+307,Scroopy Noopers,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+308,Scropon,unknown,Alien,Ricksy Business,S01E11,"April 14, 2014",Unknown
+308,Scropon,unknown,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+309,Scrotian,Alive,Animal,Mortynight Run,S02E02,"August 2, 2015",Unknown
+309,Scrotian,Alive,Animal,Get Schwifty,S02E05,"August 23, 2015",Unknown
+309,Scrotian,Alive,Animal,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+309,Scrotian,Alive,Animal,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+310,Self-Congratulatory Jerry,unknown,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+311,Shimshamian,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+311,Shimshamian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+311,Shimshamian,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+312,Shlaammi,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+313,Shleemypants,Alive,unknown,A Rickle in Time,S02E01,"July 26, 2015",Unknown
+313,Shleemypants,Alive,unknown,Rattlestar Ricklactica,S04E05,"December 15, 2019",Unknown
+314,Shmlamantha Shmlicelli,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+315,Shmlangela Shmlobinson-Shmlower,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+316,Shmlona Shmlobinson,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+317,Shmlonathan Shmlower,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+318,Shmlony Shmlicelli,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+319,Shmooglite Runner,unknown,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+320,Shnoopy Bloopers,unknown,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+321,Shrimply Pibbles,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+322,Simple Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+323,Slaveowner,Dead,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+324,Sleepy Gary,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+325,Slick Morty,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+326,Slippery Stair,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+326,Slippery Stair,Alive,Mythological Creature,Ricksy Business,S01E11,"April 14, 2014",Fantasy Dimension
+327,Slow Mobius,Alive,Humanoid,Ricksy Business,S01E11,"April 14, 2014",Unknown
+328,Slow Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+329,Snuffles (Snowball),Alive,Animal,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Raising Gazorpazorp,S01E07,"March 10, 2014",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Total Rickall,S02E04,"August 16, 2015",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Get Schwifty,S02E05,"August 23, 2015",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Pickle Rick,S03E03,"August 6, 2017",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,Morty's Mind Blowers,S03E08,"September 17, 2017",Dimension C-137
+329,Snuffles (Snowball),Alive,Animal,The ABC's of Beth,S03E09,"September 24, 2017",Dimension C-137
+330,Solicitor Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+330,Solicitor Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+331,Squanchy,unknown,Alien,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+331,Squanchy,unknown,Alien,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+331,Squanchy,unknown,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+332,Stacy,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+333,Stair Goblin,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Unknown
+333,Stair Goblin,Alive,Mythological Creature,Ricksy Business,S01E11,"April 14, 2014",Unknown
+333,Stair Goblin,Alive,Mythological Creature,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+334,Stealy,Alive,Poopybutthole,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+335,Steve,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+336,Steven Phillips,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+337,Stu,Dead,Alien,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Unknown
+338,Summer Smith,Alive,Human,Pilot,S01E01,"December 2, 2013",Dimension C-137
+338,Summer Smith,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+338,Summer Smith,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+338,Summer Smith,Alive,Human,M. Night Shaym-Aliens!,S01E04,"January 13, 2014",Dimension C-137
+338,Summer Smith,Alive,Human,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+338,Summer Smith,Alive,Human,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+338,Summer Smith,Alive,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Dimension C-137
+339,Summer Smith,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Evil Rick's Target Dimension
+340,Supernova,Alive,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+341,Taddy Mason,Alive,Human,Look Who's Purging Now,S02E09,"September 27, 2015",Replacement Dimension
+342,Taint Washer,Alive,Human,Rickmancing the Stone,S03E02,"July 30, 2017",Post-Apocalyptic Dimension
+343,Tammy Guetermann,Alive,Cronenberg,Meeseeks and Destroy,S01E05,"January 20, 2014",Dimension C-137
+343,Tammy Guetermann,Alive,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+344,Tammy Guetermann,Dead,Human,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+344,Tammy Guetermann,Dead,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+344,Tammy Guetermann,Dead,Human,The Wedding Squanchers,S02E10,"October 4, 2015",Replacement Dimension
+344,Tammy Guetermann,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Replacement Dimension
+344,Tammy Guetermann,Dead,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+345,Teacher Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+346,Terry,unknown,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+347,President Curtis,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+347,President Curtis,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+347,President Curtis,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+347,President Curtis,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+347,President Curtis,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+348,The President of the Miniverse,Dead,Humanoid,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+349,The Scientist Formerly Known as Rick,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+350,Thomas Lipkip,unknown,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+351,Three Unknown Things,Alive,Alien,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+352,Tinkles,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+353,Tiny Rick,Dead,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+354,Toby Matthews,Alive,Human,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+355,Todd Crystal,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Replacement Dimension
+356,Tom Randolph,Alive,Human,Anatomy Park,S01E03,"December 16, 2013",Dimension C-137
+357,Tommy's Clone,Alive,Human,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+358,Tophat Jones,Dead,Mythological Creature,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+358,Tophat Jones,Dead,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+358,Tophat Jones,Dead,Mythological Creature,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+359,Tortured Morty,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+360,Toxic Morty,Dead,Humanoid,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+361,Toxic Rick,Dead,Humanoid,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+362,Traflorkian,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",Unknown
+362,Traflorkian,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+362,Traflorkian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+362,Traflorkian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+362,Traflorkian,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+363,Trandor,Alive,Alien,The ABC's of Beth,S03E09,"September 24, 2017",Replacement Dimension
+364,Tree Person,Dead,Humanoid,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+365,Tricia Lange,Alive,Human,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Replacement Dimension
+365,Tricia Lange,Alive,Human,Rest and Ricklaxation,S03E06,"August 27, 2017",Replacement Dimension
+365,Tricia Lange,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+365,Tricia Lange,Alive,Human,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+365,Tricia Lange,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+366,Trunk Morty,Alive,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",unknown
+367,Trunk Man,Alive,Humanoid,Rixty Minutes,S01E08,"March 17, 2014",unknown
+367,Trunk Man,Alive,Humanoid,The Ricklantis Mixup,S03E07,"September 10, 2017",unknown
+368,Truth Tortoise,unknown,Mythological Creature,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+369,Tusked Assassin,unknown,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",unknown
+370,Two Guys with Handlebar Mustaches,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+371,Tumblorkian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",unknown
+372,Unity,Alive,Alien,Auto Erotic Assimilation,S02E03,"August 9, 2015",Unknown
+373,Unmuscular Michael,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+374,Vampire Master,Alive,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Replacement Dimension
+375,Vance Maximus,Dead,Human,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+376,Veronica Ann Bennet,Alive,Alien,Raising Gazorpazorp,S01E07,"March 10, 2014",unknown
+377,Voltematron,Dead,Alien,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+378,Wall Crawling Rick,unknown,Humanoid,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+379,Wedding Bartender,unknown,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",Unknown
+380,Unknown Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+380,Unknown Rick,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+381,Woman Rick,Alive,Alien,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+382,Worldender,Dead,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+383,Yaarb,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+384,Yellow Headed Doctor,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+385,Yellow Shirt Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+386,Zarbadar Gloonch,Dead,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+386,Zarbadar Gloonch,Dead,Alien,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+387,Zarbadar's Mytholog,unknown,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",unknown
+388,Zeep Xanflorp,Alive,Humanoid,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+389,Zeta Alpha Rick,Dead,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+389,Zeta Alpha Rick,Dead,Human,Ricksy Business,S01E11,"April 14, 2014",Unknown
+389,Zeta Alpha Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+389,Zeta Alpha Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+390,Zick Zack,Dead,Alien,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+391,Uncle Steve,Dead,Alien,Total Rickall,S02E04,"August 16, 2015",Unknown
+392,Bearded Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+392,Bearded Morty,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+393,Roy,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+394,Davin,Dead,Cronenberg,Pilot,S01E01,"December 2, 2013",Dimension C-137
+394,Davin,Dead,Cronenberg,Rick Potion #9,S01E06,"January 27, 2014",Dimension C-137
+395,Greebybobe,Alive,Alien,Pilot,S01E01,"December 2, 2013",unknown
+395,Greebybobe,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",unknown
+395,Greebybobe,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",unknown
+395,Greebybobe,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",unknown
+396,Scary Teacher,Alive,Mythological Creature,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+397,Fido,Alive,Animal,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+398,Accountant dog,Alive,Animal,Lawnmower Dog,S01E02,"December 9, 2013",Dimension C-137
+399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+400,Giant Judge,Alive,Mythological Creature,Meeseeks and Destroy,S01E05,"January 20, 2014",Fantasy Dimension
+401,Morty Jr's interviewer,Alive,Human,Raising Gazorpazorp,S01E07,"March 10, 2014",Replacement Dimension
+402,Guy from The Bachelor,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Replacement Dimension
+403,Corn detective,Dead,Humanoid,Rixty Minutes,S01E08,"March 17, 2014",unknown
+404,Michael Jackson,Alive,Humanoid,Rixty Minutes,S01E08,"March 17, 2014",Phone Dimension
+405,Trunkphobic suspenders guy,Alive,Human,Lawnmower Dog,S01E02,"December 9, 2013",Unknown
+405,Trunkphobic suspenders guy,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",Unknown
+405,Trunkphobic suspenders guy,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+405,Trunkphobic suspenders guy,Alive,Human,Ricksy Business,S01E11,"April 14, 2014",Unknown
+406,Spiderweb teddy bear,Alive,Animal,Rixty Minutes,S01E08,"March 17, 2014",unknown
+407,Regular Tyrion Lannister,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+408,Quick Mystery Presenter,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+409,Mr. Sneezy,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+410,Two Brothers,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+411,Alien Mexican Armada,unknown,Alien,Rixty Minutes,S01E08,"March 17, 2014",unknown
+412,Giant Cat Monster,unknown,Animal,Rixty Minutes,S01E08,"March 17, 2014",unknown
+413,Old Women,unknown,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+414,Trunkphobic guy,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+415,Pro trunk people marriage guy,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+416,Muscular Mannie,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+417,Baby Legs Chief,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+418,Mrs. Sullivan's Boyfriend,Alive,Human,Rixty Minutes,S01E08,"March 17, 2014",unknown
+419,Plutonian Hostess,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+420,Plutonian Host,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+421,Rich Plutonian,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+422,Rich Plutonian,Alive,Alien,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
+423,Synthetic Laser Eels,Alive,Animal,Ricksy Business,S01E11,"April 14, 2014",Replacement Dimension
+424,Pizza-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Pizza Dimension
+425,Pizza-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Pizza Dimension
+426,Greasy Grandma,Alive,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",unknown
+427,Phone-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Phone Dimension
+428,Phone-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Phone Dimension
+429,Chair-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Chair Dimension
+430,Chair-person,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Chair Dimension
+431,Chair-homeless,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Chair Dimension
+432,Chair-waiter,Alive,Humanoid,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Chair Dimension
+433,Doopidoo,Alive,Animal,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+434,Super Weird Rick,unknown,Human,Close Rick-counters of the Rick Kind,S01E10,"April 7, 2014",Unknown
+435,Pripudlian,Alive,Alien,Pilot,S01E01,"December 2, 2013",Unknown
+435,Pripudlian,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",Unknown
+435,Pripudlian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+435,Pripudlian,Alive,Alien,Vindicators 3: The Return of Worldender,S03E04,"August 13, 2017",Unknown
+436,Giant Testicle Monster,Alive,Alien,Ricksy Business,S01E11,"April 14, 2014",Testicle Monster Dimension
+436,Giant Testicle Monster,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Testicle Monster Dimension
+437,Michael,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+438,Michael's Lawyer,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+439,Veterinary,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+440,Veterinary Nurse,Alive,Human,A Rickle in Time,S02E01,"July 26, 2015",Replacement Dimension
+441,Bearded Jerry,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+442,Shaved Head Jerry,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+443,Tank Top Jerry,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+444,Pink Polo Shirt Jerry,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Unknown
+445,Jerryboree Keeper,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+446,Jerryboree Receptionist,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",Unknown
+447,Anchor Gear,Alive,Alien,Mortynight Run,S02E02,"August 2, 2015",unknown
+448,Gear Cop,Dead,Alien,Mortynight Run,S02E02,"August 2, 2015",unknown
+449,Roy's Mum,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+450,Roy's Wife,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+451,Roy's Son,Alive,Human,Mortynight Run,S02E02,"August 2, 2015",Replacement Dimension
+452,Simon,Alive,Human,Get Schwifty,S02E05,"August 23, 2015",Replacement Dimension
+453,Vampire Master's Assistant,Alive,Mythological Creature,Big Trouble in Little Sanchez,S02E07,"September 13, 2015",Unknown
+454,Arbolian Mentirososian,Alive,Alien,Get Schwifty,S02E05,"August 23, 2015",unknown
+454,Arbolian Mentirososian,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",unknown
+454,Arbolian Mentirososian,Alive,Alien,The Wedding Squanchers,S02E10,"October 4, 2015",unknown
+455,St. Gloopy Noops Nurse,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+456,Nano Doctor,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+457,Funny Songs Presenter,Alive,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+458,Tax Attorney,unknown,Human,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+459,Butthole Ice Cream Guy,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+460,Traflorkian Journalist,Alive,Alien,Interdimensional Cable 2: Tempting Fate,S02E08,"September 20, 2015",Unknown
+461,Communication's Responsible Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+462,Teleportation's Responsible Rick,unknown,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+463,SEAL Team Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+464,SEAL Team Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+465,SEAL Team Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+466,SEAL Team Rick,Dead,Human,The Rickshank Rickdemption,S03E01,"April 1, 2017",Unknown
+467,Morphizer-XE Customer Support,Alive,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+468,Morphizer-XE Customer Support,Alive,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+469,Morphizer-XE Customer Support,unknown,Alien,The Whirly Dirly Conspiracy,S03E05,"August 20, 2017",Unknown
+470,Alien Spa Employee,Alive,Alien,Rest and Ricklaxation,S03E06,"August 27, 2017",Unknown
+471,Little Voltron,Alive,Robot,Rest and Ricklaxation,S03E06,"August 27, 2017",Unknown
+472,Baby Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",unknown
+473,Bartender Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+474,Dancer Cowboy Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+475,Dancer Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+476,Flower Morty,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+477,Hairdresser Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+478,Journalist Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+479,Private Sector Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+480,Purple Morty,Alive,Alien,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+481,Retired General Rick,unknown,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+482,Secret Service Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+483,Steve Jobs Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+484,Sheik Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+485,Modern Rick,Alive,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+486,Tan Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+487,Visor Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+488,Colonial Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+489,P-Coat Rick,Dead,Human,The Ricklantis Mixup,S03E07,"September 10, 2017",Unknown
+490,Chang,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+491,Dr. Eleanor Arroway,Alive,Human,Morty's Mind Blowers,S03E08,"September 17, 2017",Unknown
+492,Varrix,Alive,Alien,The ABC's of Beth,S03E09,"September 24, 2017",Unknown
+493,Secretary of the Interior,Alive,Human,The Rickchurian Mortydate,S03E10,"October 1, 2017",Replacement Dimension
+494,Crystal Poacher,Dead,Alien,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Unknown
+495,Crystal Poacher,Dead,Alien,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Unknown
+496,Crystal Poacher,Dead,Alien,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Unknown
+497,Hologram Rick,Dead,Humanoid,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+498,Fascist Rick,Dead,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Dimension
+499,Fascist Morty,Dead,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Dimension
+500,Fascist Mr. President,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Dimension
+501,Fascist Rick’s Clone,Dead,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Dimension
+502,Revolio Clockberg Jr.,Dead,Alien,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Dimension
+503,Fascist Shrimp Rick,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Shrimp Dimension
+504,Fascist Shrimp Rick’s Clone,Dead,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Shrimp Dimension
+505,Fascist Shrimp Morty,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Shrimp Dimension
+506,Fascist Shrimp SS,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Shrimp Dimension
+507,Fascist Teddy Bear Rick,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Teddy Bear Dimension
+508,Fascist Teddy Bear Rick’s Clone,Dead,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Fascist Teddy Bear Dimension
+509,Bully,unknown,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+510,Anchorman,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+511,Anchorwoman,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+512,Morty’s Lawyer,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+513,Judge,Dead,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+514,Public Opinion Judge,Alive,Human,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+515,Caterpillar Mr. Goldenfold,Dead,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+516,Wasp Rick,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+517,Wasp Rick’s Clone,unknown,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+518,Wasp Morty,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+519,Wasp Summer,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+520,Wasp Jerry,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+521,Wasp Beth,Alive,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+522,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Wasp Dimension
+523,Boglin,unknown,unknown,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",Replacement Dimension
+524,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,"Edge of Tomorty: Rick, Die, Rickpeat",S04E01,"November 10, 2019",unknown
+525,Glootie,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+526,Danny Publitz,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+527,Mothership Intern,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+528,Monogatron Leader,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+529,Lizard,Dead,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+530,Deliverance,Dead,Robot,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+531,Tony,Dead,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+532,Tony’s Wife,Dead,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+533,Monogatron Queen,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+534,Tony's Dad,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+535,Jeff,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+536,Josiah,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+537,Maggie,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+538,Priest Witherspoon,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+539,Richard,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+540,Running Bird,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+541,Secretary at Tony's,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+542,Mountain Sweat Jerry,Alive,Human,The Old Man and the Seat,S04E02,"November 17, 2019",Replacement Dimension
+543,Vermigurber,Alive,Alien,The Old Man and the Seat,S04E02,"November 17, 2019",Unknown
+544,Miles Knightly,Dead,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+545,Heist-Con Receptionist,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+546,Angie Flint,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+547,Glar,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+548,Truckula,Alive,Mythological Creature,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+549,Snake Arms,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+550,Double Microwawe,Alive,Humanoid,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+551,Monitor Lord,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+552,Key Catcher,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+553,The Shapeshiftress,Alive,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Unknown
+554,Heistotron,Dead,Robot,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+555,Randotron,Dead,Robot,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+556,Hephaestus,Alive,Mythological Creature,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+557,Ventriloquiver,Alive,Humanoid,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+558,Elon Tusk,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Tusk Dimension
+559,Gramuflackian Anchorman,Dead,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+560,Gramuflackian General,Dead,Alien,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+561,Netflix Executive,Alive,Human,One Crew Over the Crewcoo's Morty,S04E03,"November 24, 2019",Replacement Dimension
+562,Balthromaw,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+563,The Wizard,Dead,Human,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+564,Talking Cat,Alive,Animal,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Unknown
+565,Debrah,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+566,Debrah’s Partner,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+567,Michael,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+568,Slut Dragon,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+569,Shadow Jacker,Alive,Mythological Creature,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Magic Dimension
+570,Chachi,Dead,Alien,Claw and Hoarder: Special Ricktim's Morty,S04E04,"December 8, 2019",Unknown
+571,Slippy,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+572,Robot Snake,unknown,Robot,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+573,Snake Hitler,Dead,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+574,Snake Lincoln,Dead,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+575,Snake Resistance Robot,Dead,Robot,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+576,Snake Linguist,unknown,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+577,Snake Terminator,unknown,Robot,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+578,Snake Soldier,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+579,Snake with Legs,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+580,Secret Service Snake,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+581,Anchosnake,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+582,Anchosnake,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+583,80's snake,unknown,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+584,Bar Customer,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+585,Bartender,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+586,PC Basketball Player,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+587,Cavesnake,Dead,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+588,Pet Shop Employee,Alive,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+589,Snake Reporter,Alive,Animal,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+590,High Pilot,unknown,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+591,High Pilot,unknown,Human,Rattlestar Ricklactica,S04E05,"December 15, 2019",Replacement Dimension
+592,Phoenixperson,Dead,Alien,The Rickshank Rickdemption,S03E01,"April 1, 2017",unknown
+592,Phoenixperson,Dead,Alien,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",unknown
+592,Phoenixperson,Dead,Alien,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",unknown
+593,Tickets Please Guy,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+594,Floaty Bloody Man,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+595,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+596,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+597,Abradolf Lincler,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+598,Biblesaurus,Alive,Animal,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+599,Birdperson,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+600,Cats Fan,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+601,Christmas Storyteller,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+602,Cookies Guy,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+603,Crossy,Alive,unknown,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+604,Female Scorpion,Dead,Animal,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+605,Floaty Bloody Man’s Daughter,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+606,Goomby,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+607,Hairspray Fan,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+608,Jesus Christ,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+609,Josh,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+610,Josh's Sister,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+611,Leah,Alive,unknown,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+612,Marcus,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+613,Mike Johnson,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+614,Mr. Celery & Friends,Alive,unknown,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+615,Musical Fan,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+616,Phantom of the Opera Fan,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+617,Phoenixperson,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+618,Private Smith,unknown,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+619,Professor Sanchez,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+620,Ramamama Lord,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+621,Ruth Bader Ginsburg,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+622,Sarge,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+623,Shrek The Musical Fan,Alive,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+624,Snuffles,Alive,Animal,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+625,Storylord,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+626,Tammy Guetermann,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+627,The Concept of Time,Alive,unknown,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+628,Beth Smith,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+629,Summer Smith,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+630,Morty Smith,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+631,Rick Sanchez,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+632,Train Cop,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+633,Train Cops,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+634,Train Cops Instructor,Dead,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+635,Darth Poopybutthole,Alive,Poopybutthole,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+636,Evil Morty,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+637,Morty’s Disguise,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+638,Rick’s Disguise,Alive,Human,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+639,Uncle Nibbles,Dead,Alien,Never Ricking Morty,S04E06,"May 3, 2020",Replacement Dimension
+640,Angry Glorzo,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+641,Bruce,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+642,Council of Glorzos Member,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+643,Council of Glorzos Member,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+644,Old Glorzo,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+645,Shane,unknown,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+646,Steve,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+647,Troy,Dead,Alien,Promortyus,S04E07,"May 10, 2020",Replacement Dimension
+648,Crystal Dealers Boss,Dead,Alien,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown
+649,Crystal Dealer,Dead,Alien,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown
+650,Crystal Dealer,Dead,Alien,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown
+651,Crystal Dealer,Dead,Alien,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown
+652,SWAT Officer,Dead,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Merged Dimension
+653,Plane Crash Survivor,unknown,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+654,Plane Crash Survivor,unknown,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+655,Heroine Keith,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+656,Impervious to Acid SWAT Officer,Dead,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Merged Dimension
+657,Johnny Carson,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Merged Dimension
+658,Sonia Sotomayor,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Merged Dimension
+659,Morty’s Father-in-law,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+660,Morty’s Mother-in-law,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+661,Morty’s Girlfriend,Alive,Human,The Vat of Acid Episode,S04E08,"May 17, 2020",Unknown dimension
+662,Gaia,Alive,unknown,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+663,Reggie,Dead,Mythological Creature,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+664,Ticktock,unknown,Humanoid,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+665,Florflock,Alive,Humanoid,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+666,Squeeb,Alive,Humanoid,Childrick of Mort,S04E09,"May 24, 2020",Replacement Dimension
+667,Defiance Beth,Alive,Human,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+667,Defiance Beth,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+668,Defiance Squanchette,Alive,Alien,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+669,Defiance Doctor,Alive,Alien,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Unknown
+670,New Improved Galactic Federation Guard,Dead,Alien,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+671,New Improved Galactic Federation Guard,Dead,Alien,Star Mort: Rickturn of the Jerri,S04E10,"May 31, 2020",Replacement Dimension
+672,Mr. Nimbus,Alive,Mythological Creature,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+673,Hoovy,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+674,Bova,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+675,Japheth,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+676,Japheth's Middle Son,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+677,Japheth's Eldest Son,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+678,Japheth's Youngest Son,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+679,Japheth's Grandson,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+680,Adam,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+681,Adam's Mother,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+682,Warlock,Dead,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+683,Evolved Narnian,Alive,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+684,Mr. Nimbus Secretary,Alive,Animal,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+685,Evolved Narnian Disguised as Morty,Alive,Humanoid,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Fantasy Dimension
+686,Mr. Nimbus' Squid,Dead,Animal,Mort Dinner Rick Andre,S05E01,"June 20, 2021",Replacement Dimension
+687,Scarecrow Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+688,Scarecrow Summer,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+689,Scarecrow Jerry,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+690,Scarecrow Morty,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+691,Scarecrow Beth,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+692,Glockenspiel Jerry,Alive,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+693,Glockenspiel Beth,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+694,Glockenspiel Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+695,Glockenspiel Summer,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+696,Glockenspiel Morty,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+697,Wicker Beth,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+698,Wicker Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+699,Wicker Morty,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+700,Wicker Summer,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+701,Metal Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+702,Gun Brain Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+703,Mr. Always Wants to be Hunted,Alive,Poopybutthole,Mortyplicity,S05E02,"June 27, 2021",Unknown
+704,Squid Costume Beth,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+705,Squid Costume Jerry,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+706,Squid Costume Morty,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+707,Squid Costume Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+708,Squid Costume Summer,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+709,Dracula,Alive,Mythological Creature,Mortyplicity,S05E02,"June 27, 2021",unknown
+710,Steve,Alive,Human,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+711,When Wolf,Alive,Mythological Creature,Mortyplicity,S05E02,"June 27, 2021",unknown
+712,Too Cute to Murder Beth,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+713,Too Cute to Murder Rick,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+714,Too Cute to Murder Jerry,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+715,Too Cute to Murder Morty,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+716,Too Cute to Murder Summer,Dead,Robot,Mortyplicity,S05E02,"June 27, 2021",Replacement Dimension
+717,Planetina,Alive,Humanoid,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+718,Daphne,Alive,Alien,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+719,Diesel Weasel,Alive,Animal,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+720,Eddie,Dead,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+721,Xing Ho,Dead,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+722,Air Tina-Teer,Dead,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+723,Water Tina-Teer,Dead,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+724,Planetina Buyer,Dead,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+725,Tony Galopagus,Alive,Human,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+726,Sticky,Alive,unknown,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+727,Professor Shabooboo,Dead,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+728,Sperm Queen,Dead,unknown,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+729,CHUD King,Alive,Animal,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+730,Princess Ponietta,Alive,Animal,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+731,Naruto Smith,Alive,Humanoid,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+731,Naruto Smith,Alive,Humanoid,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Replacement Dimension
+732,Blazen,Dead,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+733,Kathy Ireland,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+734,Amazing Johnathan,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+735,Foal Sanchez,Alive,Humanoid,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+736,Spaceman,Dead,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+737,Cirque du Soleil Zumanity Member,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Unknown dimension
+738,Cirque du Soleil Zumanity Member,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+739,Cirque du Soleil Zumanity Member,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+740,Cirque du Soleil Zumanity Member,Dead,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+741,Cirque du Soleil Zumanity Member,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+742,Bruce Chutback,Alive,Human,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+743,Alyson Hannigan,Dead,Alien,Amortycan Grickfitti,S05E05,"July 18, 2021",Unknown
+744,Cenobite,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+745,Cenobite,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+746,Cenobite,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+747,Cenobite,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+748,Cenobite,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+749,Coat Rack Head,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+750,Mousetrap Nipples,unknown,Mythological Creature,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+751,Changeformer,Dead,Robot,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+752,Changeformer,Dead,Robot,Amortycan Grickfitti,S05E05,"July 18, 2021",Replacement Dimension
+753,Space Cruiser,Alive,Robot,The Ricks Must Be Crazy,S02E06,"August 30, 2015",Replacement Dimension
+753,Space Cruiser,Alive,Robot,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+754,Coop,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+755,Dwayne,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+756,Franklin D. Roosevelt,Dead,Humanoid,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+757,President's General,Alive,Human,Rickdependence Spray,S05E04,"July 11, 2021",Replacement Dimension
+757,President's General,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+758,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+759,Turkey Morty,Alive,Animal,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+760,Turkey Rick,Alive,Animal,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+761,Turkey President Curtis,Alive,Animal,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+762,Martínez,Dead,Animal,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+763,Marvin,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+764,Jackey,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+765,Native Alien,Alive,Alien,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Unknown
+766,Pilgrim Alien,Alive,Alien,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Unknown
+767,President Turkey,Dead,Humanoid,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+768,Mary-Lou,Alive,Human,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+769,Big Fat rick,unknown,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+770,Hothead Rick,Dead,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+771,Ricardo Montoya,unknown,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+772,Wrap-it-up Little Rick,Dead,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+773,Yo-yo Rick,unknown,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+774,Voiceoverian,Dead,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+775,Voiceoverian,Dead,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+776,Gotron Pilot,Dead,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+777,Gotron Pilot,Dead,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+778,Gotron Pilot,Dead,Human,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Unknown
+779,Young Memory Rick,Alive,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+780,Memory Tammy,Dead,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+781,Rick's Garage,Alive,Robot,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+782,Memory Squanchy,Dead,Alien,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+783,Memory Rick,Dead,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+784,Memory Rick,Dead,Human,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+785,Memory Geardude,Dead,Alien,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+786,Birdperson & Tammy's Child,Alive,Humanoid,Rickternal Friendshine of the Spotless Mort,S05E08,"August 8, 2021",Replacement Dimension
+787,Two Crows,Alive,Animal,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Replacement Dimension
+787,Two Crows,Alive,Animal,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+788,Mr. Cookie President,Alive,Alien,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Unknown
+789,Nick,Dead,Human,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Replacement Dimension
+790,Harold (Garbage Goober),Alive,Alien,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Unknown
+791,Harold's Wife,Alive,Alien,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Unknown
+792,Alien Crow,Dead,Alien,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Replacement Dimension
+793,Alien Crow,Dead,Alien,Forgetting Sarick Mortshall,S05E09,"September 5, 2021",Replacement Dimension
+794,Samansky,Dead,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",
+795,Palicki,Alive,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",
+796,Sarge,Alive,Alien,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",
+797,Slartivartian,Dead,Alien,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+798,Ferkusian,Alive,Alien,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+799,Morglutzian,Dead,Alien,A Rickconvenient Mort,S05E03,"July 4, 2021",Replacement Dimension
+800,Super Turkey,Dead,Humanoid,Rick & Morty's Thanksploitation Spectacular,S05E06,"July 25, 2021",Replacement Dimension
+801,7+7 Years Old Morty,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+802,26 Years Old Morty,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+803,40 Years Old Morty,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+804,Andy,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+805,Baby Mouse Skin Morty,Alive,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+806,Metaphor for Capitalism,Dead,Humanoid,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+807,Beth Sanchez,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Dimension C-137
+808,Crow Scare,Alive,Humanoid,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+809,Pussifer,Dead,Animal,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+810,Stan Lee Rick,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+811,Re-Build-a-Morty Morty,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+812,Deformed Morty,Dead,Humanoid,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+813,Crow Horse,Alive,Robot,Rickmurai Jack,S05E10,"September 5, 2021",Replacement Dimension
+814,Bald Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+815,Punk Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+816,Party Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+817,Scar Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+818,Long Hair Rick,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+819,Redhead Rick,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+820,Redhead Morty,Dead,Human,Rickmurai Jack,S05E10,"September 5, 2021",Unknown
+821,Gotron,unknown,Robot,Gotron Jerrysis Rickvangelion,S05E07,"August 1, 2021",Replacement Dimension
+822,Young Jerry,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+823,Young Beth,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+824,Young Beth,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+825,Young Jerry,unknown,Human,Rickmurai Jack,S05E10,"September 5, 2021",unknown
+826,Butter Robot,Alive,Robot,Something Ricked This Way Comes,S01E09,"March 24, 2014",Replacement Dimension
