@@ -121,7 +121,7 @@ def insert_to_database(combined_data):
     conn = sqlite3.connect("files/rnm.db")
     c = conn.cursor()
 
-    # Create the table if it doesn't exist
+    # Create the table if ot exists
     c.execute(
         """CREATE TABLE IF NOT EXISTS characters_episodes (
             character_id INTEGER,
@@ -134,10 +134,9 @@ def insert_to_database(combined_data):
             dimension TEXT
         )"""
     )
-    print(f"Inserting {len(combined_data)} rows into the database...")  # Debugging print
+    print(f"Inserting {len(combined_data)} rows into the database...")
 
     for row in combined_data:
-        print(f"Inserting row: {row}")  # Debugging print
         c.execute(
             """INSERT INTO characters_episodes 
             (character_id, character_name, character_status, character_species, episode_name, episode_code, episode_air_date, dimension)
